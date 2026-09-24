@@ -2,6 +2,12 @@
   <img src="assets/intro.svg" width="100%" alt="Yasser — Cybersecurity engineering student. I enjoy understanding how systems work, how they break, and how to defend them. I learn by building labs, investigating attacks and turning what I find into practical tools.">
 </p>
 
+<p>
+  <img src="assets/coming-soon-n8n.gif" width="100%" alt="Coming soon — Email Security &amp; Phishing Analysis. An end-to-end automated pipeline powered by n8n.">
+</p>
+
+<br>
+
 <h2>Selected projects</h2>
 
 <a href="https://github.com/Yasserkdr1/golden-image_factory">
